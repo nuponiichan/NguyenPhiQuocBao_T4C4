@@ -1,26 +1,45 @@
-<h1 align="center">Chào bạn 👋, mình là Nguyễn Phi Quốc Bảo</h1>
-<p align="center">
+<h1 align="center" style="color: #4CAF50;">Chào bạn 👋, mình là Nguyễn Phi Quốc Bảo</h1>
+<p align="center" style="color: #555555;">
   Hiện tại mình là sinh viên năm 3 tại trường
-  <a href="https://huflit.edu.vn/" target="_blank">Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)</a>
+  <a href="https://huflit.edu.vn/" target="_blank" style="color: #1E90FF;">Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)</a>
 </p>
 
-<p align="center">
-  Mình đam mê lập trình và đang tìm kiếm cơ hội để phát triển bản thân cũng như học hỏi thêm về các công nghệ mới. Ngoài việc học ở trường, mình cũng đã có một vài project cá nhân. Bạn có thể xem thêm tại <a href="https://github.com/nupniichan?tab=repositories" target="_blank">Project</a>.
+<p align="center" style="color: #555555;">
+  Mình đam mê lập trình và đang tìm kiếm cơ hội để phát triển bản thân cũng như học hỏi thêm về các công nghệ mới. Ngoài việc học ở trường, mình cũng đã có một vài project cá nhân. Bạn có thể xem thêm tại <a href="https://github.com/nupniichan?tab=repositories" target="_blank" style="color: #1E90FF;">Project</a>.
   Hãy cùng khám phá thêm về các kỹ năng và dự án mà mình đã tham gia dưới đây!
 </p>
 
 ---
 
-<h2 align="center">🧑‍💻 Về mình</h2>
-<p>
-  🔭 Mình đang học và nghiên cứu thêm về DevOps và AI.<br>
-  💬 Hãy thoải mái hỏi mình về lập trình và công nghệ!<br>
-  ⚡ Fun fact: Mình thích chơi game và xem anime.
+<h2 align="start">🧑‍💻 Về mình</h2>
+<p align="start" style="color: #555555;">
+  🔭 Đang học về DevOps & AI<br>
+  💻 Yêu thích lập trình, thích được làm những việc liên quan đến AI<br>
+  ⚡ Fun fact: Mình thích chơi game và xem anime
 </p>
 
 ---
 
-<h2>🚀 Các ngôn ngữ và công nghệ mình đã sử dụng</h2>
+<h2 align="start">🚀 Các Project Cá Nhân Nổi Bật</h2>
+<ul>
+  <li><strong>Chino Kafuu:</strong> <a href="https://github.com/nupniichan/ChinoKafuu" target="_blank">Discord Bot</a> - Chino Kafuu hỗ trợ nhiều chức năng như tra thông tin của game, anime, nghe nhạc youtube không quảng cáo, tương tác với người dùng và dùng chính voice của Chino Kafuu để phản hồi lại bạn sử dụng AI. <u>( Dataset đều được trích xuất và train bởi mình )</u>
+  <li><strong>Simple Anilist:</strong> <a href="https://github.com/nupniichan/SimpleAnilist" target="_blank">Simple Anilist</a> - Thư viện hiển thị thông tin anime/manga từ Anilist API.</li>
+  <li><strong>Profile Pag:</strong> <a href="https://github.com/nupniichan/profile-page" target="_blank">Trang cá nhân</a> Trang cá nhân của mình được host tại <a href="[https://github.com/nupniichan?tab=repositorie](https://nupniichan.github.io/profile-page/)" target="_blank" style="color: #1E90FF;">Website</a>.
+</ul>
+
+---
+
+<h2 align="start">👥 Các Project Làm Nhóm</h2>
+<ul>
+  <li><strong>Website Đặt Tour:</strong> <a href="https://github.com/nupniichan/Website-dat-tour" target="_blank">Website Đặt Tour</a> - Ứng dụng quản lý đặt tour du lịch bao gồm chức năng tìm kiếm, đặt vé, quản lý vé, mua vé trực tuyến qua momo,...</li>
+  <li><strong>Website Bán Điện Thoại:</strong> <a href="https://github.com/nupniichan/Website-Ban-Dien-Thoai" target="_blank">Website Bán Điện Thoại</a> - Website quản lý bán điện thoại với hệ thống quản lý sản phẩm và giỏ hàng, mua hàng thông qua momo, triển khai CI/CD và nhiều tính năng khác.</li>
+</ul>
+
+<p align="center">Và còn nhiều project khác...</p>
+
+---
+
+<h2 align="center">🚀 Các ngôn ngữ và công nghệ mình đã và đang sử dụng</h2>
 
 <div>
   <h3>⚙️ Back-end Development</h3>
@@ -92,25 +111,11 @@
 
 <h2>📈 Hoạt động của mình trên Github</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nupniichan&show_icons=true&theme=radical" alt="nupniichan stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nupniichan&theme=radical" alt="nupniichan streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupniichan&layout=compact&theme=radical" alt="nupniichan top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nupniichan&show_icons=true&theme=radical" alt="nupniichan stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nupniichan&theme=radical" alt="nupniichan streak stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupniichan&layout=compact&theme=radical" alt="nupniichan top languages" width="400"/>
 </p>
 
 ---
 
-<h2>⚡️ Liên hệ với mình tại các đường link bên dưới</h2>
-<p align="center">
-  <a href="https://www.facebook.com/nupniichan" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%230866ff.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-  </a>
-  <a href="https://www.youtube.com/@nupniichan" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-%23cc0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
-  </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-</p>
+<h2 align="center">⚡️ Liên hệ với mình ngay tại <a href="https://nupniichan.github.io/profile-page/" target="_blank" style="color: #1E90FF;">Trang cá nhân</a> </h2>
